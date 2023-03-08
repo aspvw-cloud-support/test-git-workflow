@@ -3,3 +3,4 @@ that:
   is:
     - something
     - else
+    - new
